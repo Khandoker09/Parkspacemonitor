@@ -1,3 +1,6 @@
+
+
+![Sample Image](https://url_to_your_image.com/banner_image.jpg)
 # Real-Time Parking Space Monitoring
 
 ## Project Overview
